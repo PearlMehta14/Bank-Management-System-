@@ -27,5 +27,4 @@ An improved and robust Bank Management System written in C.
    ./bank_system
    ```
 
-## Development
-Created by **Error Terror Team** and enhanced by **Antigravity AI**.
+

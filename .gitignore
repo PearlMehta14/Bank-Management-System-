@@ -1,0 +1,10 @@
+# Binaries
+*.exe
+*.o
+*.out
+bank_system
+
+# Data files
+*.dat
+new.dat
+records.dat

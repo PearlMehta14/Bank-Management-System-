@@ -4,7 +4,6 @@
 #include <string.h>
 #include <windows.h>
 
-
 // Constants
 #define DATA_FILE "records.dat"
 #define PASSWORD "admin123"
@@ -541,7 +540,5 @@ void erase() {
 
 void close_app() {
   header("THANK YOU");
-  printf("\t\tDeveloped by Error Terror Team\n");
-  printf("\t\tPowered by Antigravity AI\n\n");
   exit(0);
 }

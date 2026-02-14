@@ -33,6 +33,3 @@ An improved and robust Bank Management System written in C.
 
 ## Admin Credentials
 - **Default Password**: `admin123`
-
-## Development
-Created by **Error Terror Team** and enhanced by **Antigravity AI**.

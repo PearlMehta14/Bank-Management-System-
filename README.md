@@ -18,14 +18,21 @@ An improved and robust Bank Management System written in C.
 
 ## How to Run
 1. Ensure you have a C compiler installed (like `gcc`).
-2. Compile the code:
-   ```bash
-   gcc bank_system.c -o bank_system
+2. **Compile the code**:
+   ```powershell
+   gcc bank_system.c -o bank_system.exe
    ```
-3. Run the executable:
-   ```bash
-   ./bank_system
+   *Note: If `gcc` is not recognized, but you have CodeBlocks installed, use:*
+   ```powershell
+   $env:PATH += ";C:\Program Files\CodeBlocks\MinGW\bin"; gcc bank_system.c -o bank_system.exe
    ```
+3. **Run the application**:
+   ```powershell
+   ./bank_system.exe
+   ```
+
+## Admin Credentials
+- **Default Password**: `admin123`
 
 ## Development
 Created by **Error Terror Team** and enhanced by **Antigravity AI**.

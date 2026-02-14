@@ -31,9 +31,5 @@ An improved and robust Bank Management System written in C.
    ./bank_system.exe
    ```
 
-<<<<<<< HEAD
 ## Admin Credentials
 - **Default Password**: `admin123`
-=======
-
->>>>>>> 466486d9f6161e6914de2cbe95639b2536b5ea1b
